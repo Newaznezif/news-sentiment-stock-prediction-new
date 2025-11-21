@@ -1,0 +1,10 @@
+# Ignore CSVs
+Datas/newsData/*.csv
+Datas/yfinance_data/Data/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
