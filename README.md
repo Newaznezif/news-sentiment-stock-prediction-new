@@ -182,7 +182,7 @@ ________________________________________
 ________________________________________
 📬 Contact
 For collaboration or feedback:
-Newz Nezif  — Analyst
+Newaz Nezif  — Analyst
 ________________________________________
 ✔ Final Note
 This repository now supports end-to-end sentiment + stock correlation analysis, with reusable modules, clear notebooks, and a clean branching strategy.
