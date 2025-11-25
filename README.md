@@ -1,6 +1,6 @@
 ﻿News Sentiment & Stock Movement Analysis
 A multi-stage analytics project exploring how financial news sentiment correlates with stock price movement.
-Author: Newaz Bezif
+Author: Newaz Nezif
 Date: November 2025
 Repository: https://github.com/YourGitHubUsername/news-sentiment-stock-prediction-new
 ________________________________________
